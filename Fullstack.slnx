@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Fullstack/Fullstack.csproj" />
+  <Project Path="SchoolDirectoryApp/SchoolDirectoryApp.csproj" />
+</Solution>

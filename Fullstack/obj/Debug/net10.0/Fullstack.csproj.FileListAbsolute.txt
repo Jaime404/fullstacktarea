@@ -1,0 +1,16 @@
+C:\Users\jgome\Desktop\Dorsetcollege\fullstack\Fullstack\Fullstack\bin\Debug\net10.0\Fullstack.exe
+C:\Users\jgome\Desktop\Dorsetcollege\fullstack\Fullstack\Fullstack\bin\Debug\net10.0\Fullstack.deps.json
+C:\Users\jgome\Desktop\Dorsetcollege\fullstack\Fullstack\Fullstack\bin\Debug\net10.0\Fullstack.runtimeconfig.json
+C:\Users\jgome\Desktop\Dorsetcollege\fullstack\Fullstack\Fullstack\bin\Debug\net10.0\Fullstack.dll
+C:\Users\jgome\Desktop\Dorsetcollege\fullstack\Fullstack\Fullstack\bin\Debug\net10.0\Fullstack.pdb
+C:\Users\jgome\Desktop\Dorsetcollege\fullstack\Fullstack\Fullstack\obj\Debug\net10.0\Fullstack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgome\Desktop\Dorsetcollege\fullstack\Fullstack\Fullstack\obj\Debug\net10.0\Fullstack.AssemblyInfoInputs.cache
+C:\Users\jgome\Desktop\Dorsetcollege\fullstack\Fullstack\Fullstack\obj\Debug\net10.0\Fullstack.AssemblyInfo.cs
+C:\Users\jgome\Desktop\Dorsetcollege\fullstack\Fullstack\Fullstack\obj\Debug\net10.0\Fullstack.csproj.CoreCompileInputs.cache
+C:\Users\jgome\Desktop\Dorsetcollege\fullstack\Fullstack\Fullstack\obj\Debug\net10.0\Fullstack.dll
+C:\Users\jgome\Desktop\Dorsetcollege\fullstack\Fullstack\Fullstack\obj\Debug\net10.0\refint\Fullstack.dll
+C:\Users\jgome\Desktop\Dorsetcollege\fullstack\Fullstack\Fullstack\obj\Debug\net10.0\Fullstack.pdb
+C:\Users\jgome\Desktop\Dorsetcollege\fullstack\Fullstack\Fullstack\obj\Debug\net10.0\Fullstack.genruntimeconfig.cache
+C:\Users\jgome\Desktop\Dorsetcollege\fullstack\Fullstack\Fullstack\obj\Debug\net10.0\ref\Fullstack.dll
+C:\Users\jgome\Desktop\Dorsetcollege\fullstack\Fullstack\Fullstack\obj\Debug\net10.0\Fullstack.csproj.Up2Date
+C:\Users\jgome\Desktop\Dorsetcollege\fullstack\Fullstack\Fullstack\obj\Debug\net10.0\Fullstack.sourcelink.json
